@@ -1,0 +1,9 @@
+test_1
+ test_2
+ etc_n
+ >> myfirstfile.txt 
+echo -e test_1n test_2n etc_nn
+test_1
+ test_2
+ etc_n
+
