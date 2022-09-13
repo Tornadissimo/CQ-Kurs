@@ -1,8 +1,8 @@
-ls
-
-
-
 test_1
  test_2
  etc_n
+
+777 RRR
+777 RRR
+RRR 777
 
